@@ -1,0 +1,113 @@
+.popover {
+    width:250px;
+    height:200px;
+    background-color:#FFA4BD;
+    text-align: center;
+    border: none;
+}
+
+.downloadbtn {
+    background: white;
+    background-color: none;
+    border: none;
+    border-radius: 10px;
+    width:20px;
+    height:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:3px;
+}
+
+.download {
+    width:15px;
+    height:15px;
+}
+
+.trashbtn {
+    background: white;
+    background-color: none;
+    border: none;
+    border-radius: 10px;
+    width:20px;
+    height:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:3px;
+}
+
+.trash {
+    width:15px;
+    height:15px;
+}
+
+.bar {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.text5 {
+    font-family: "oldpicture";
+    font-size: 10px;
+    color: white;
+    margin: auto;
+    margin-right: 5px;
+}
+
+.frame {
+    width:200px;
+    height:150px;
+    margin-top:10px;
+    margin-bottom: 5px;
+}
+
+.voicebtn {
+    background: none;
+    background-color: none;
+    border: none;
+    width:50px;
+    height:50px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin:3px;
+}
+
+.voice1 {
+    width:40px;
+    height:40px;
+}
+
+.voice2 {
+    width:40px;
+    height:40px;
+}
+
+.popover2 {
+    width:250px;
+    height:60px;
+    background-color:#FDF1F3;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainpage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+
+.voice3 {
+    width:40px;
+    height:40px;
+}
+
+.voice4 {
+    width:40px;
+    height:40px;
+}

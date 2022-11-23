@@ -1,0 +1,54 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://i7c203.p.ssafy.io:3306/s07p11c203?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&allowPublicKeyRetrieval=true&useSSL=false
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: ssafy
+    password: ssafy
+
+#  mail:
+#    host: smtp.gmail.com
+#    port: 587
+#    username:
+#    password:
+#    properties:
+#      mail.smtp.auth: true
+#      mail.smtp.starttls.enable: true
+
+  mail:
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: 'true'
+          auth: 'true'
+    host: smtp.gmail.com
+    username: c203ssafy@gmail.com
+    debug: 'true'
+    password: riknhssmiejhjmom
+    default:
+      encoding: UTF-8
+    port: '587'
+    transport:
+      protocol: smtp
+    restart:
+      enabled: true
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    hibernate:
+      ddl-auto: none
+      use-new-id-generator-mappings: false
+    properties:
+      hibernate:
+        format_sql: true
+server.port: 8082
+#  devtools:
+#    livereload:
+#      enabled: true
+
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        web: debug
+#    sql: debug

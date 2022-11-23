@@ -1,0 +1,76 @@
+.letterheader{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.headerlogo {
+    margin-top: 10%;
+}
+
+.lettercontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+}
+
+.partyinfo {
+    font-family: "oldpicture";
+    text-align: center;
+}
+
+.Main {
+    font-family: "star";
+    text-align: center;
+    margin-top: 10%;
+    font-size: large;
+}
+
+.Main2 {
+    font-family: "star";
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom:3%;
+    font-size: xx-large;
+}
+
+.partyinfo2 {
+    font-family: "oldpicture";
+    text-align: center;
+    font-size: large;
+}
+
+.lettercontainer2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.clicklink {
+    color: #9D9D9D;
+    text-decoration: none;
+    font-family: "star";
+    display: flex;
+    justify-content: center;
+}
+
+.clicklink:hover {
+    color: #FD7A99;
+}
+
+.dateMDY {
+    color: #FFA4BD;
+    font-weight: bold;
+    font-size: large;
+    margin:auto;
+    margin-bottom: 16px;
+}
+
+.dateMDY2 {
+    color: #FFA4BD;
+    font-weight: bold;
+    font-size: x-large;
+    margin:auto;
+    margin-bottom: 16px;
+}

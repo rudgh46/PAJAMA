@@ -1,0 +1,11 @@
+.awssld__bullets {
+    display:none;
+    
+}
+.awssld__content > img {
+    object-fit:unset;
+}
+
+.awssld__timer {
+    display:none;
+}

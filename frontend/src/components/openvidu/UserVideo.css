@@ -1,0 +1,28 @@
+video {
+    width:90%;
+    height:auto;
+    float: left;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.Nickname {
+    margin: 5px;
+    font-family: "oldpicture";
+    color: black;
+    background: none;
+    background-color: none;
+    position: absolute;
+    padding: 5px;
+    font-weight: bold;
+    top: 95%;
+    margin-top:20px;
+}
+
+.streamcomponent {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 15px;
+}

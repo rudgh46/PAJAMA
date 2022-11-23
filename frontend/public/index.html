@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="./pazamafont.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <title>PAJAMA</title>
+    <meta property="og:image" content="%PUBLIC_URL%/pajamaimg.png" />
+    <meta property="og:site_name" content="PAJAMA" />
+    <meta property="og:description" content="당신을 파티에 초대합니다!" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- 안보이게 해야함 style="display: none"-->
+    <div class="container" style="display: none">
+      <div class="canvas-wrapper">
+        <canvas id="output"></canvas>
+        <video
+          id="video"
+          playsinline=""
+          style="
+            -webkit-transform: scaleX(-1);
+            transform: scaleX(-1);
+            visibility: hidden;
+            width: auto;
+            height: auto;
+          "
+        ></video>
+      </div>
+      <div id="emo">&nbsp;</div>
+    </div>
+    <!--^^ 안보이게 해야함 ^^-->
+  </body>
+</html>

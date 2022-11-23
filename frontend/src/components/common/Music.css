@@ -1,0 +1,78 @@
+.Music {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.Music-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#ytVideo {
+  display: none;
+}
+
+.Player {
+  background-color: white;
+  border-radius: 30px;
+  width: 170px;
+  margin: auto;
+  position: absolute;
+  top: 103%;
+}
+
+.Btn {
+  cursor: pointer;
+}
+
+#playBtn {
+  margin-left: 10px;
+}
+
+.genreText {
+  font-size: 16px;
+}
+
+.lb-wrap {
+  width: 50%;
+  margin: 10px auto;
+  position: relative;
+}
+
+.lb-image {
+  cursor: pointer;
+  width: 100%;
+
+  /* margin:auto; */
+}
+
+.lb-wrap img {
+  width: 95px;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+.lb-text {
+  padding: 10px 20px;
+  text-align: center;
+  position: absolute;
+  font-size: 25px;
+  top: 60%;
+  left: 50%;
+  color: black;
+  transform: translate(-50%, -50%);
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: -30px;
+}

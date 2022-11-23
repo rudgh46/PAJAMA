@@ -1,0 +1,86 @@
+.feeds {
+  border: 1px solid #ffe9ef;
+  background-color: #ffe9ef;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.comment {
+  background-color: #ffffff;
+  margin: auto;
+  width: 90%;
+  border-radius: 10px;
+}
+
+.listbtn {
+  background: none;
+  background-color: none;
+  border: none;
+  padding: 5px;
+  float: right;
+  width: 20px;
+  height:20px;
+  padding-right: 50px;
+  padding-top:10px;
+}
+
+.picture {
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 80%;
+
+
+}
+
+.head {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 90%;
+  padding-top: 10px;
+}
+
+.trashbtn {
+  background: none;
+  background-color: none;
+  border: none;
+  float: right;
+  width: 20px;
+  height:20px;
+  margin-right:5px;
+}
+
+.downloadbtn {
+  background: none;
+  background-color: none;
+  border: none;
+  float: right;
+  width: 20px;
+  height:20px;
+}
+
+.date {
+  font-weight: bold;
+  font-family: 'oldpicture';
+}
+
+.comment {
+  font-family: 'oldpicture';
+  padding-bottom: 5px;
+}
+
+.dialog{
+  overflow-y: initial !important
+}
+.body{
+  height: 400px; 
+  overflow-y: auto;
+  text-align: center;
+}
+
+.frameimg {
+  margin-bottom: 20px;
+}
