@@ -2,6 +2,8 @@
 
 ---
 
+- 👉 [노션](https://marmalade-grin-120.notion.site/PJT-Miracle-Bird-151e32e5482b422d9d142dca7ab41b06)
+
 ## ✨ 팀 소개
 
 - 김준우 : 팀장, 백엔드, WebRTC 구현, 서버 담당
