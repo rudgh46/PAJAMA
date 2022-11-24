@@ -23,29 +23,29 @@
 
 ### WebRTC
 
-![파자마_설명2](/uploads/8b4bf79f68422d10a2d1326aff9365f7/파자마_설명2.png)
+![파자마_설명2](https://user-images.githubusercontent.com/97828427/203667780-f1404e00-5389-455c-a0c5-6814f6af6de5.png)
 
 ### 모션인식
 
 - 모션 인식을 통한 폭죽 효과
 
-![KakaoTalk_20220817_155957074](/uploads/bfa21173f591cef51f0c4d799cebe149/KakaoTalk_20220817_155957074.gif)
+![모션폭죽](https://user-images.githubusercontent.com/97828427/203667769-62ae26ec-8f4b-42c0-8001-4d5b16e319c1.gif)
 
 - 모션 인식을 통한 촛불 끄기
 
-![KakaoTalk_20220817_165807081](/uploads/ef80141941272189f44bd23a002b7cb4/KakaoTalk_20220817_165807081.gif)
+![모션촛불](https://user-images.githubusercontent.com/97828427/203667766-3bab0412-4efb-42cb-9555-ec544a2cd79c.gif)
 
 - 모션 인식 ( 하트 )
 
-![ezgif-4-bba324d641](/uploads/87b1def736bf75c7522618ff71e7a770/ezgif-4-bba324d641.gif)
+![모션하트](https://user-images.githubusercontent.com/97828427/203667772-683cf6ad-903b-422d-869f-6ee314b76a10.gif)
 
 - 모션 인식 ( 브이 )
 
-![ezgif-4-7a9e4914d9](/uploads/53abc83022f199195512993a9c489c10/ezgif-4-7a9e4914d9.gif)
+![모션v](https://user-images.githubusercontent.com/97828427/203667759-5bf6297c-e4cc-4528-826b-641a47b53ebb.gif)
 
 - 모션 인식 ( 일 모양 )
 
-![ezgif-4-5b35591b16](/uploads/05b0ece377adeb141327f1c6d1fcbfc7/ezgif-4-5b35591b16.gif)
+![모션1](https://user-images.githubusercontent.com/97828427/203667751-1edec25a-0b58-4cf2-bb21-295c40c11a4c.gif)
 
 ### 음성인식(Speech-to-Text)
 
@@ -55,11 +55,11 @@
 
 ## ERD
 
-![Untitled](/uploads/2cbdc2b6923ea334c3d2ba3e1f147fa8/Untitled.png)
+![ERD](https://user-images.githubusercontent.com/97828427/203667735-b8890b54-ee13-452f-b8e0-fbdda7981846.png)
 
 ## ⌨️ 기술스택
 
-![파자마로고작업2](/uploads/a38f463a177d32f35560d46c151aea14/파자마로고작업2.png)
+![아키텍처](https://user-images.githubusercontent.com/97828427/203667776-9e5e8f55-39d9-445b-b4f6-1f2726e21728.png)
 
 ### Server-side
 
@@ -124,48 +124,49 @@
 ```
 
 ## 배포
-[바로가기](https://lab.ssafy.com/s07-webmobile1-sub1/S07P11C203/-/blob/master/exec/README.md)
+
+[바로가기](/exec/README.md)
 
 ## 💻서비스 화면
 
 ### 메인 페이지
 
-![Untitled](/uploads/df7a65772f6e32764bff301eb85d09af/Untitled.png)
+![메인페이지](https://user-images.githubusercontent.com/97828427/203667742-7c95a224-fa56-4d4f-8a46-2cd4499844f3.png)
 
-![Untitled](/uploads/509751547de6ae917477f1b2dc644797/Untitled.png)
+![메인페이지2](https://user-images.githubusercontent.com/97828427/203667745-364a5919-42f4-43c3-acb4-d8ff7fcf8274.png)
 
-![Untitled](/uploads/4c97a933e0cbd551abdd3bc10749e594/Untitled.png)
+![메인페이지3](https://user-images.githubusercontent.com/97828427/203667746-f54b4188-2b06-4b6a-a528-8e7255e1e041.png)
 
-![Untitled](/uploads/c76af47e533158bdc8446bac8be10a99/Untitled.png)
+![메인페이지4](https://user-images.githubusercontent.com/97828427/203667748-2b58648e-7e7c-481f-93b3-2742392faa66.png)
 
 ### 회원가입 및 로그인
 
 - 회원가입 ( 본인 인증을 위해 이메일 인증번호 전송 )
 
-![KakaoTalk_20220817_165806635](/uploads/2f10390159ac20f3904f4edc84d4cafc/KakaoTalk_20220817_165806635.gif)
+![회원가입](https://user-images.githubusercontent.com/97828427/203667786-cdbc68f3-fc5d-4684-ad28-f83ed6e56834.gif)
 
 - 로그인 , 비밀번호 초기화 ( 이메일을
 
-![Untitled](/uploads/6440987cfd7e3a93540db2729b9be542/Untitled.png)
+![로그인](https://user-images.githubusercontent.com/97828427/203667738-32b7bc7c-6fed-48b7-a8ea-41e2328db338.png)
 
 - 아이디 찾기 ( 전화번호를 통해 아이디의 일부를 보여줌 )
-- 
+-
 
-![KakaoTalk_20220817_165806745](/uploads/9067766183dbaadabcbf821ba0852d49/KakaoTalk_20220817_165806745.gif)
+![아이디 찾기](https://user-images.githubusercontent.com/97828427/203667777-a0422585-4fad-442a-85d7-7d7cf5ac5656.gif)
 
 - 비밀번호 찾기 ( 이메일을 통해 새로운 비밀번호를 제공함 )
 
-![KakaoTalk_20220817_165806880](/uploads/c0c3d909c89c460a9f60f782e1ae9f21/KakaoTalk_20220817_165806880.gif)
+![비밀번호 찾기](https://user-images.githubusercontent.com/97828427/203667774-f26aa672-58f8-4db6-8860-e204198e0b7f.gif)
 
 ### 파티룸 생성
 
-![파티생성](/uploads/3227209878f5ffc49ac5f2e118bf1db5/파티생성.gif)
+![파티생성](https://user-images.githubusercontent.com/97828427/203667784-23a032da-6356-4c83-a008-0da5b612eef0.gif)
 
 ### 화상 미팅룸 및 그룹 채팅
 
 - 채팅 화면
 
-![KakaoTalk_20220817_145651357](/uploads/266bb670186fd528db78fb75ae64fe14/KakaoTalk_20220817_145651357.png)
+![채팅화면](https://user-images.githubusercontent.com/97828427/203667778-21910052-612e-4613-b2db-a43bb19a7cce.png)
 
 ### 음악재생
 
@@ -175,8 +176,8 @@
 
 - 참여한 파티 별로 찍었던 사진을 확인할 수 있음
 
-![Untitled](/uploads/c7c6aaa5874e6df5f2ba46c8c8f6fc2e/Untitled.png)
+![마이페이지](https://user-images.githubusercontent.com/97828427/203667741-e125441f-5378-48c4-ac85-fc5a268d35c9.png)
 
 - 여러 사진과 피드 내용 수정, 피드 삭제 가능
 
-![Untitled](/uploads/ed2c61de282f6923f6d0b68d95879156/Untitled.png)
+![마이페이지 피드수정](https://user-images.githubusercontent.com/97828427/203667739-84a44021-b164-4841-9f2b-a172cc583cdc.png)
